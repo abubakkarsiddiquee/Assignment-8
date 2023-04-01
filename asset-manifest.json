@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67e25dd3.css",
+    "main.js": "/static/js/main.f65c7b27.js",
+    "static/js/787.fced4cc9.chunk.js": "/static/js/787.fced4cc9.chunk.js",
+    "static/media/fotor_2023-4-1_1_30_15.png": "/static/media/fotor_2023-4-1_1_30_15.1b2ad0dc14c454cda08b.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.67e25dd3.css.map": "/static/css/main.67e25dd3.css.map",
+    "main.f65c7b27.js.map": "/static/js/main.f65c7b27.js.map",
+    "787.fced4cc9.chunk.js.map": "/static/js/787.fced4cc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67e25dd3.css",
+    "static/js/main.f65c7b27.js"
+  ]
+}

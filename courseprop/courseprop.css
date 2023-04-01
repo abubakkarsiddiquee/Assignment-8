@@ -1,0 +1,10 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.main-contain{
+width: 450px;
+height: 480px;
+
+
+}

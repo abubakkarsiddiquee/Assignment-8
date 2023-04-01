@@ -1,0 +1,25 @@
+.-container{
+    display: flex;
+    justify-content:space-evenly;
+}
+.cart-container{
+    
+opacity:#6047EC,10% ;
+    border-radius: 8px;
+    color: #6047EC;
+    width: 270px;
+    height: 80px;
+    border: 2px solid #6047EC;
+}
+.cart-space{
+    border-radius: 8px;
+    margin-top: 20px;
+    width: 270px;
+    height: 780px;
+    border: 2px solid #6047EC;
+
+}
+.left-in{
+    display: flex;
+   
+}
